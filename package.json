@@ -1,5 +1,6 @@
 {
   "name": "employeedirectory",
+  "homepage": "https://sp-amm.github.io/reactuserdirectory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
