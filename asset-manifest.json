@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactuserdirectory/static/css/main.3fbf2f57.chunk.css",
+    "main.js": "/reactuserdirectory/static/js/main.53720485.chunk.js",
+    "main.js.map": "/reactuserdirectory/static/js/main.53720485.chunk.js.map",
+    "runtime-main.js": "/reactuserdirectory/static/js/runtime-main.cb441987.js",
+    "runtime-main.js.map": "/reactuserdirectory/static/js/runtime-main.cb441987.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/reactuserdirectory/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c3cc9561.chunk.js": "/reactuserdirectory/static/js/2.c3cc9561.chunk.js",
+    "static/js/2.c3cc9561.chunk.js.map": "/reactuserdirectory/static/js/2.c3cc9561.chunk.js.map",
+    "index.html": "/reactuserdirectory/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/reactuserdirectory/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.3fbf2f57.chunk.css.map": "/reactuserdirectory/static/css/main.3fbf2f57.chunk.css.map",
+    "static/js/2.c3cc9561.chunk.js.LICENSE.txt": "/reactuserdirectory/static/js/2.c3cc9561.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb441987.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c3cc9561.chunk.js",
+    "static/css/main.3fbf2f57.chunk.css",
+    "static/js/main.53720485.chunk.js"
+  ]
+}
